@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="375" height="192" viewBox="0 0 375 192">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #f7d24e;
+        stroke-linecap: round;
+        stroke-width: 25px;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: red;
+      }
+    </style>
+  </defs>
+  <g id="Player">
+    <g id="Tempo">
+      <path id="Ellipse_1_copy_6" data-name="Ellipse 1 copy 6" class="cls-1" d="M52,183a135,135,0,0,1,270,0"/>
+      <circle class="cls-2" cx="52" cy="167" r="25"/>
+    </g>
+  </g>
+</svg>
